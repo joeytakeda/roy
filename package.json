@@ -1,0 +1,13 @@
+{
+  "name": "roy",
+  "version": "1.0.0",
+  "description": "Global style package for the DHIL",
+  "main": "index.js",
+  "repository": "https://github.com/joeytakeda/roy",
+  "author": "Joey Takeda",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "modularscale-sass": "^3.0.10"
+  }
+}

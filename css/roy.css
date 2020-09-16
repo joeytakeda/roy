@@ -1,0 +1,33 @@
+/* Mixins file, which we should try and use globally across DHIL projects,
+since there's stuff I tend to do quite a bit.
+ */
+/* Make sure to import the modularscale-sass library */
+/* @dhil-headers
+ *
+ * Standard header creation from a typescale
+ */
+/* @dhil-reset
+ *
+ * Adds a number of resets that are common across the dhil
+ */
+/* @dhil-make-navbar
+ *
+ * Resets and customizes the navbar
+ */
+/* @dhil-gallery
+ *
+ * Creates a standard gallery view (note that we used to do this with flex,
+ * but grid is much better for handling variable numbers of objects)
+ */
+/* @dhil-clamp-lines
+ *
+ * Clamps lines at a particular vertical line length with a fallback for unsupported
+ * browsers.
+ */
+/* @dhil-lazyload
+ *
+ * Basic adjustments for images that are loaded lazily.
+ *
+ */
+
+/*# sourceMappingURL=roy.css.map */
